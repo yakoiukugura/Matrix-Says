@@ -1,0 +1,10 @@
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Matrix Says\Matrix Says\bin\Debug\Matrix Says.exe.config
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Matrix Says\Matrix Says\bin\Debug\Matrix Says.exe
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Matrix Says\Matrix Says\bin\Debug\Matrix Says.pdb
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Matrix Says\Matrix Says\obj\Debug\Matrix Says.csproj.AssemblyReference.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Matrix Says\Matrix Says\obj\Debug\Matrix_Says.Form1.resources
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Matrix Says\Matrix Says\obj\Debug\Matrix_Says.Properties.Resources.resources
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Matrix Says\Matrix Says\obj\Debug\Matrix Says.csproj.GenerateResource.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Matrix Says\Matrix Says\obj\Debug\Matrix Says.csproj.CoreCompileInputs.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Matrix Says\Matrix Says\obj\Debug\Matrix Says.exe
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Matrix Says\Matrix Says\obj\Debug\Matrix Says.pdb
